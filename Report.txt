@@ -1,0 +1,8 @@
+From basic data analysis we conclude that the data is about customer id ,age,gender,income and spending score.
+Company employee maximum salary is of 119912 and minimum salary is of 30301.
+Company employee average salary is of 73715.
+Company employee average spennding score is of 50.
+Company employee average age is of 41 and max age is 64 and min age is of 18.
+In cumstomer mostly are of the age of between 40-50
+From gender distribution we conclude that 53% are male and 47% female.
+People above the age of 30 have more spending score.
